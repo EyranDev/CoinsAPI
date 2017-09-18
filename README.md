@@ -1,5 +1,9 @@
 CoinsAPI
 
+---------- What is CoinsAPI? ----------
+CoinsAPI is a Coinssystem with a Intigrated API. You can add, remove and set Coins from your players. Your Users can pay Coins to other players and can see the own or other coins.
+------------------------------------
+
 Todo:
 - Vault Support
 
