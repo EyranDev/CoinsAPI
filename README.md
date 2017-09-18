@@ -9,6 +9,8 @@ Todo:
 
 Feature: 
 - Config.yml
+- Supported UUIDs
+- Update Notification
 - MySQL & file Support
 - Editable Messages
 
