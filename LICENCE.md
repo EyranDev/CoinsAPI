@@ -1,5 +1,6 @@
-TERMS:  
-By downloading the plugin, you accept these rules. Last changed: 18th of september, 2017 at 19:45PM.
+Terms:  
+By downloading the plugin, you accept these rules. Last changed: 18th of september, 2017 at 19:45PM.  
+
 You are not allowed to claim this plugin as your own.  
 You are not allowed to modify the code and/or call it your onw.  
 You are not allowed to redistrubuting this plugin and call it yours.  
