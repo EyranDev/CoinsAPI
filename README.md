@@ -16,4 +16,4 @@ Feature:
 
 Requirements:
 Java 8 installed on your server
-Spigot Version between 1.7.x - 1.12.x
+Spigot Version between 1.8.x - 1.12.x
