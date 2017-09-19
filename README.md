@@ -6,6 +6,7 @@ CoinsAPI is a Coinssystem with a Intigrated API. You can add, remove and set Coi
 
 Todo:
 - Vault Support
+- NCST Support
 
 Feature: 
 - Config.yml
@@ -14,6 +15,6 @@ Feature:
 - MySQL & file Support
 - Editable Messages
 
-Requirements:
-Java 8 installed on your server
-Spigot Version between 1.8.x - 1.12.x
+Requirements:  
+Java 8 installed on your server  
+Spigot Version between 1.8.x - 1.12.x  
